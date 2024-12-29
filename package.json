@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "regression": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/regression": "^2.0.6"
+  }
+}
