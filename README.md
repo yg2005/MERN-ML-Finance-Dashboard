@@ -117,8 +117,9 @@ MERN-ML-Finance-Dashboard/
 ```
 
 ## API Endpoints
-- `GET /api/revenue`: Fetch revenue data.
-- `GET /api/expenses`: Fetch expense data.
+- `GET /kpi/kpis`:
+- `GET /product/products`: 
+- `GET /transaction/transactions`: 
 - `POST /api/predictions`: Generate predictions for future revenue.
 
 ## Deployment
@@ -128,7 +129,8 @@ MERN-ML-Finance-Dashboard/
    npm run build
    ```
 
-2. **Set up a hosting service** (e.g., Heroku, AWS, Netlify) and deploy both the frontend and backend.
+2. **Use Fly.io for backend hosting | Vercel for frontend hosting**
+   OR **Set up a hosting service** (e.g., Heroku, AWS, Netlify) and deploy both the frontend and backend.
 
 ## Contributing
 Contributions are welcome! Please fork the repository, create a branch, and submit a pull request.
